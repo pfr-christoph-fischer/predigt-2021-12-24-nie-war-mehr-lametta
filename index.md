@@ -10,9 +10,9 @@ series: Weihnachtszeit 2021-22
 summary: "Irgendwie seltsam, dieses Weihnachten. Klein, fast mickrig. So vieles, was sonst dazugehörte, geht diesmal nicht. Traurig. Früher war mehr Lametta. Echt? Weihnachten war schon immer klein. Das ist ja gerade das Geheimnis, dass der unendliche Gott ein kleiner Mensch wird, um zu den kleinen Menschen zu kommen, die er liebt."
 source: pfarrplaner
 source_id: "230@www.pfarrplaner.de"
-cover: cover.jpg
+cover: nie-war-mehr-lametta.jpg
 cover_alt: "Titelbild zur Predigt \"Nie war mehr Lametta\"."
-audio: audio.mp3
+audio: nie-war-mehr-lametta.mp3
 audio_duration: "8:33"
 legacy_id: 230
 events:
